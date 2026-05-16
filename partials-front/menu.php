@@ -40,7 +40,7 @@
                             echo '<li class="nav-item"><a href="login.php" class="nav-link active">Login</a> </li>';
                         } else {
                             echo  '<li class="nav-item"><a href="myorders.php" class="nav-link active">Myorders</a> </li>';
-                            echo  '<li class="nav-item"><a href="http://localhost/Sport_project/admin" class="nav-link active">Admin</a> </li>';
+                            echo  '<li class="nav-item"><a href="http://localhost/Sport_project/admin/login.php" class="nav-link active">Admin</a> </li>';
                             echo  '<li class="nav-item"><a href="logout.php" class="nav-link active">Logout</a> </li>';
                         }
                         ?>
